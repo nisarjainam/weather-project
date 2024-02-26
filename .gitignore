@@ -1,0 +1,6 @@
+dataset/
+dataset/** 
+secrets
+timekeeper
+location
+data_generator.ipynb
